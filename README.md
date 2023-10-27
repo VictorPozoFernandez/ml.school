@@ -1,4 +1,4 @@
-# Machine Learning School
+# Machine Learning School (Victor)
 
 This repository contains the source code of the [Machine Learning School](https://www.ml.school) program.
 
